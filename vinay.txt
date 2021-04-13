@@ -1,4 +1,4 @@
-vian
+public staitc void main{
 
-pulbc visds
-sjf
+
+}
